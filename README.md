@@ -1,8 +1,8 @@
 ##Table of Contents
-* [General info][#general-info]
-* [Technologies][#technologies]
-* [Project Status][#project-status]
-* [Sources][#sources]
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Project Status](#project-status)
+* [Sources](#sources)
 
 ## General info
 This is ivngzmn's google homepage project
